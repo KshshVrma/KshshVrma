@@ -9,6 +9,9 @@
   <a href="https://www.codechef.com/users/another_year">
     <img src="https://img.shields.io/badge/CodeChef-grey?style=for-the-badge" alt="cc Badge"/>
   </a>
+   <a href="https://leetcode.com/Kashish_024/">
+    <img src="https://img.shields.io/badge/leetcode-orange?style=for-the-badge" alt="lc Badge"/>
+  </a>
    <a href="https://auth.geeksforgeeks.org/user/kashishverma8382/practice">
     <img src="https://img.shields.io/badge/GFG-green?style=for-the-badge" alt="gfg Badge"/>
   </a>
