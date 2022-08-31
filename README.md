@@ -30,3 +30,11 @@ I am a Web Developer and a Competetive Coder <img src="https://media.giphy.com/m
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="PYTHON" alt="python" width="40" height="40"/>&nbsp;
 
 </div>
+<div>
+  ---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KshshVrma&theme=synthwave)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KshshVrma&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+    ---
