@@ -12,7 +12,7 @@
   hey there I am Kashish Verma
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Web Developer and a Competetive Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 <br>
 - :zap: In my free time, I solve problems on GeeksforGeeks and Leetcode.
 
