@@ -15,6 +15,9 @@
    <a href="https://auth.geeksforgeeks.org/user/kashishverma8382/practice">
     <img src="https://img.shields.io/badge/GFG-green?style=for-the-badge" alt="gfg Badge"/>
   </a>
+  <a href="https://codeforces.com/profile/bulletpoke">
+    <img src="https://img.shields.io/badge/Codeforces-red?style=for-the-badge" alt="cc Badge"/>
+  </a>
 <img src="https://komarev.com/ghpvc/?username=Kashish&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
