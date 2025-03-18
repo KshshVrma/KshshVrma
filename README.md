@@ -34,7 +34,6 @@ I am a Software Engineer Passionate about Problem-Solving. <img src="https://med
 <br>
 💡 Hobbies: Competitive coding, and building side projects.
 <br>
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kashish-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kashish-verma-342347221/)
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-line.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
