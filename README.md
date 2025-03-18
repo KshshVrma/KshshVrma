@@ -52,10 +52,6 @@ Passionate about problem-solving.
 </div>
 
 <div>
-  ### :fire: My Stats :
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KshshVrma&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
-<div>
   ---
 
 <p align="center">
@@ -63,7 +59,7 @@ Passionate about problem-solving.
 </p>
   <br>
     <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KshshVrma&theme=radical" />
+  <img src="[http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KshshVrma&theme=radical](https://github-readme-stats.vercel.app/api?username=KshshVrma&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs)" />
 </p>
   </div>
     ---
