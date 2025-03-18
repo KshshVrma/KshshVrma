@@ -58,8 +58,8 @@ Passionate about problem-solving.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KshshVrma&theme=radical" />
 </p>
   <br>
-    <p align="center">
-  <img src="[http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KshshVrma&theme=radical](https://github-readme-stats.vercel.app/api?username=KshshVrma&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs)" />
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KshshVrma&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs" />
 </p>
   </div>
     ---
