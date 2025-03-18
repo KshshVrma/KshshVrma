@@ -24,10 +24,18 @@
   hey there I am Kashish Verma
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-I am a Web Developer and a Competetive Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 <br>
-- :zap: In my free time, I solve problems on GeeksforGeeks and Leetcode.
+Passionate about problem-solving.
 
+⚡ Coding Enthusiast: I enjoy solving challenges on GeeksforGeeks & LeetCode.
+<br>
+🏗️ Tech Stack: Java, Spring Boot, REST APIs, Docker, Kubernetes, Oracle DB.
+<br>
+🔍 Currently Exploring: Microservices architecture, distributed systems, and DevOps practices.
+<br>
+💡 Hobbies: Competitive coding, and building side projects.
+<br>
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kashish-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kashish-verma-342347221/)
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-line.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
