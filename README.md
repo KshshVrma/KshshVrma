@@ -52,9 +52,9 @@ Passionate about problem-solving.
 </div>
 <div>
   ---
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KshshVrma&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KshshVrma&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KshshVrma&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KshshVrma&theme=radical" />
+</p>
   </div>
     ---
