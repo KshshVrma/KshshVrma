@@ -24,10 +24,8 @@
   hey there I am Kashish Verma
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Software Engineer Passionate about Problem-Solving. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
-Passionate about problem-solving.
-
 ⚡ Coding Enthusiast: I enjoy solving challenges on GeeksforGeeks & LeetCode.
 <br>
 🏗️ Tech Stack: Java, Spring Boot, REST APIs, Docker, Kubernetes, Oracle DB.
