@@ -50,10 +50,14 @@ Passionate about problem-solving.
  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; -->  
 
 </div>
+
 <div>
-  ---
   ### :fire: My Stats :
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KshshVrma&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
+<div>
+  ---
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KshshVrma&theme=radical" />
 </p>
