@@ -34,6 +34,7 @@ I am a Software Engineer Passionate about Problem-Solving. <img src="https://med
 <br>
 💡 Hobbies: Competitive coding, and building side projects.
 <br>
+
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-line.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -50,6 +51,12 @@ I am a Software Engineer Passionate about Problem-Solving. <img src="https://med
 
 <div>
   ---
+  ### 🏆 Top Languages:
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KshshVrma&layout=compact&theme=vision-friendly-dark" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KshshVrma&theme=radical" />
